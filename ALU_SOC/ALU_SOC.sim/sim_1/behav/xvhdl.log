@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/project/ALU_SOC/ALU_SOC.srcs/sources_1/imports/new/ALU16.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity ALU16
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/project/ALU_SOC/ALU_SOC.srcs/sources_1/imports/new/ALU16_TB.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity ALU16_TB
